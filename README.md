@@ -10,15 +10,18 @@ Colocar el modelo en la carpeta models
 
 Logearse en Django con el endpoint [Login](http://localhost:8000/api/login/) -> Peticion POST
 Y enviar este JSON:
+```json
 {
   "username":"admin",
   "password":"1234",
 }
-
+```
 Luego hacer una peticion POST al endpoint [Chatbot](http://localhost:8000/api/chatbot/)
 
 con el siguiente JSON:
+```json
 {
   "pregunta":"dame informacion de los envios",
   "modelo":"gemma-3-1b-it-Q8_0"
 }
+```
