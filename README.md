@@ -1,4 +1,4 @@
-# Instrucciones para usar shimmy
+# Instrucciones para usar [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
 
 ## Descargar modelo en formato .gguf.
 Puede ser: [Gemma 3 1B](https://huggingface.co/ggml-org/gemma-3-1b-it-GGUF/resolve/main/gemma-3-1b-it-Q8_0.gguf?download=true)
