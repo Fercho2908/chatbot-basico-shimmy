@@ -29,4 +29,4 @@ con el siguiente JSON:
 }
 ```
 
-![Yaak (Peticion POST con Yaak)](/imagenes/yaak.png)
+![Yaak (Peticion POST con Yaak)](/imagenes/yak.png)
